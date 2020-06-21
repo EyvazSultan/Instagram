@@ -1,4 +1,4 @@
-bs4
+nobs4
 future
 requests
 colorama
